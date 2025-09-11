@@ -56,4 +56,3 @@ class TicketProvider with ChangeNotifier {
     }
   }
 }
-

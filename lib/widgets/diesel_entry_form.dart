@@ -66,4 +66,3 @@ class _DieselEntryFormState extends State<DieselEntryForm> {
     );
   }
 }
-

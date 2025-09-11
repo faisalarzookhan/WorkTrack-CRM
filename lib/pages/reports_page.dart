@@ -33,4 +33,3 @@ class ReportsPage extends StatelessWidget {
     );
   }
 }
-

@@ -37,4 +37,3 @@ class TicketingPage extends StatelessWidget {
     );
   }
 }
-

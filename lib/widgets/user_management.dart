@@ -74,4 +74,3 @@ class UserManagement extends StatelessWidget {
     );
   }
 }
-

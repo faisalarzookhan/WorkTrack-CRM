@@ -100,4 +100,3 @@ class TimesheetProvider with ChangeNotifier {
     }
   }
 }
-
