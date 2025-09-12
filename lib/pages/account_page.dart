@@ -32,3 +32,4 @@ class AccountPage extends StatelessWidget {
     );
   }
 }
+

@@ -28,3 +28,4 @@ class DepartmentPage extends StatelessWidget {
     );
   }
 }
+
